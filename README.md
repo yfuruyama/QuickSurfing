@@ -1,4 +1,4 @@
-Extension Reloader
+QuickSurfing
 ====================
 
 How to use
