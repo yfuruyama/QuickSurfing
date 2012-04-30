@@ -1,0 +1,23 @@
+{
+  "name": "QuickSurfing",
+  "version": "1.0",
+  "description": "move on search results by hitting the TAB key.",
+  "permissions": [
+    "tabs",
+    "http://*/",
+    "https://*/"
+  ],
+  "background": {
+    "scripts": ["background.js"]
+  },
+  "content_scripts": [
+    {
+      "matches": [
+        "https://www.google.co.jp/*",
+        "http://www.google.co.jp/*"
+      ],
+      "js": ["contentscript.js"]
+    }
+  ]
+}
+
