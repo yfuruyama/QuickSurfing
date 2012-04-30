@@ -1,10 +1,12 @@
 QuickSurfing
 ====================
-Google検索の検索結果をTABキーのみで移動できるChrome拡張機能です。
+http://www.youtube.com/watch?v=dS5q16fYJG4  
+
+Google検索の検索結果をTABキーのみで移動できるChrome拡張機能です。  
 Googleのインスタント検索を有効にしておく必要があります。
 
-QuickSurfing is very easy keyboard shortcut tool for Google search.
-Hit the /<TAB/> key and move cursor on results of Google search.
+QuickSurfing is very easy keyboard shortcut tool for Google search.  
+Hit the \<TAB\> key and move cursor on results of Google search.
 
 How to use
 -------------------------------
