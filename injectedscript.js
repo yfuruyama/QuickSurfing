@@ -5,8 +5,8 @@
 /*===========================*/
 /* Google dependent variable */
 /*===========================*/
-var DOWN_ARROW_FUNC= "(0, _.dV)(_.n, _.n);";
-var UP_ARROW_FUNC = "(0, _.dV)(_.D, _.n);";
+var DOWN_ARROW_FUNC= "(0, _.aV)(_.n, _.n);";
+var UP_ARROW_FUNC = "(0, _.aV)(_.B, _.n);";
 
 
 /*==========*/
